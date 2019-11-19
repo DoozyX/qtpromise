@@ -14,3 +14,7 @@ moc_*.h
 coverage.info
 package-lock.json
 target_wrapper.bat
+
+.idea/
+
+cmake-build-debug/
